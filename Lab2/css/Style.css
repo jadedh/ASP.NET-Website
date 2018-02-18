@@ -1,0 +1,30 @@
+﻿h1 {
+    border-bottom-style: solid;
+    border-bottom-color: coral;
+}
+body {
+    background-color: Gray;
+}
+div {
+    text-align: center;
+}
+footer {
+    padding: 1em;
+    color: white;
+    background-color: black;
+    clear: left;
+    text-align: center;
+}
+.floatright{
+    width: 48%;
+    float: right;
+}
+.floatleft{
+    width: 48%;
+    float: left;
+}
+.containerdivNewLine {
+    clear: both;
+    display: block;
+    position: relative;
+} 
